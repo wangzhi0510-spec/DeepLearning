@@ -3,7 +3,8 @@
 
 
 def damo1():
-    pass
+ print(1)
+
 
 
 
